@@ -1,0 +1,93 @@
+body{background-color:white;}
+.nav{
+	    display: flex;
+    justify-content: flex-end;
+    background-color: pink;
+    height: 60%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;  
+    height: 15%;
+}
+#l{
+	font-size: 40px;
+}
+a{
+	padding: 2rem;
+	text-decoration: none;
+	list-style: none;
+}
+
+#CONTACTS{
+
+}
+#welcome-section{
+	    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+    background-color: rgb(230, 66, 245);
+  
+}
+#u{
+	background-color: rgb(66, 245, 215);
+}
+
+#p{
+	display: flex;
+	flex-direction: row;
+}
+#m{
+	display: flex;
+	flex-direction: row;
+}
+#CONTACTS{
+
+}
+#navbar{
+
+}
+.nav-list{display:flex;
+	flex-direction: row;
+font-size: 2.2rem;
+padding: 2rem;
+list-style: none;
+}
+#im{
+	width: 100%;
+	height: 80%;
+	padding-left: 85px;
+	
+}
+
+#im1{
+	width: 50%;
+	height: 80%;
+}
+
+#im2{
+	width: 70%;
+	height: 70%;
+}
+
+#im3{
+	width: 70%;
+	height: 70%;
+	
+}
+#footer{
+	background-color: rgb(66, 215, 245);
+}	
+#links{
+font-weight: 900;
+display:flex;
+justify-content: flex-end;
+background-color: white;
+font-size: 40px;
+margin-bottom: 0px;
+
+
+}
